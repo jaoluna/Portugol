@@ -1,0 +1,10 @@
+algoritmo "contador33"
+var
+   contador: inteiro
+inicio
+      contador<-0
+      enquanto (contador<=30) faca
+               escreva(contador)
+               contador<-contador+3
+      fimenquanto
+fimalgoritmo
